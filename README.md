@@ -1,2 +1,2 @@
-# Web-Tasar-m-Geli-tirme-1-Photoshop-le-Web-Aray-z-Tasar-m-
-Web Tasarım Geliştirme 1 (Photoshop İle Web Arayüz Tasarımı) kurs bitirme ödevim
+# Web Design Development Web Interface project with Photoshop (worked site: AUZEF) <-->  Photoshop ile Web Tasarım Geliştirme Web Arayüzü projesi (çalışılan site: AUZEF)
+
